@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab275b85-8c32-45ae-97d3-3842870e2887" name="Default Changelist" comment="test12">
+    <list default="true" id="ab275b85-8c32-45ae-97d3-3842870e2887" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Content/test2.html" afterDir="false" />
     </list>
@@ -21,44 +21,48 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="html" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="21" />
-          <entry key="txt" value="12" />
+          <entry key="html" value="23" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="21" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="HTML" value="23" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Content/test2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Content/test1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Content/test2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -91,7 +95,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="880" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -125,8 +129,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539612969968" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539613906181" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../test2/TestGitAll/WebContent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -152,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539612067767</updated>
-      <workItem from="1539612069217" duration="872000" />
+      <workItem from="1539612069217" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1539612487353</created>
@@ -175,26 +179,32 @@
       <option name="project" value="LOCAL" />
       <updated>1539612712359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test3">
+      <created>1539613012586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539613012586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="872000" />
+    <option name="totallyTimeSpent" value="1966000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="880" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2166405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32890365" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -224,7 +234,8 @@
     <MESSAGE value="abc" />
     <MESSAGE value="test2" />
     <MESSAGE value="test12" />
-    <option name="LAST_COMMIT_MESSAGE" value="test12" />
+    <MESSAGE value="test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Content/test1.html">
@@ -236,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/test2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
