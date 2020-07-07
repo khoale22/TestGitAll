@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\maich\OneDrive\Desktop\t¨¦t\TestGitAll\EclipProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1456809009.index
+3606283658.index
+68101532.index
+1794832342.index
+2395486052.index
